@@ -1,0 +1,36 @@
+==============================================
+     HOSTEL ROOM ALLOCATION REPORT
+==============================================
+
+======================================
+HOSTEL ROOM ALLOCATION REPORT
+======================================
+Student Name : Paul Mensah
+Index Number : 01232228B
+Gender       : Male
+Programme    : Btech electrical
+Room Number  : 1
+Room Type    : Double
+Room Capacity: 2
+Occupants    : 2
+Status       : Allocated Successfully
+
+======================================
+HOSTEL ROOM ALLOCATION REPORT
+======================================
+Student Name : Frank Mensah
+Index Number : 01232224B
+Gender       : Male
+Programme    : Btech electrical
+Room Number  : 1
+Room Type    : Double
+Room Capacity: 2
+Occupants    : 2
+Status       : Room Full - Allocation Rejected
+
+==============================================
+SUMMARY
+==============================================
+Total Students Processed : 2
+Successful Allocations   : 1
+Rejected Allocations     : 1
